@@ -7,6 +7,6 @@
 ## Hobbies 
 - Watching movies
 - Reading
-##Formatting
+## Formatting
 ***Bold Italic line***
   
